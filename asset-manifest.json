@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FranceEcologie/static/css/main.f031d163.css",
+    "main.js": "/FranceEcologie/static/js/main.c02c83ed.js",
+    "static/js/787.c1112931.chunk.js": "/FranceEcologie/static/js/787.c1112931.chunk.js",
+    "static/media/pic.jpeg": "/FranceEcologie/static/media/pic.adf4568fe13fb05bbcbc.jpeg",
+    "static/media/engie.png": "/FranceEcologie/static/media/engie.d34955dead4608001ad0.png",
+    "static/media/total.png": "/FranceEcologie/static/media/total.6a733d002b426d3fca6a.png",
+    "static/media/edf.png": "/FranceEcologie/static/media/edf.7aad0ccb1e8778bdadee.png",
+    "static/media/Annotation 2023-08-12 172940.png": "/FranceEcologie/static/media/Annotation 2023-08-12 172940.23531c4fe5a1dfd459a4.png",
+    "index.html": "/FranceEcologie/index.html",
+    "main.f031d163.css.map": "/FranceEcologie/static/css/main.f031d163.css.map",
+    "main.c02c83ed.js.map": "/FranceEcologie/static/js/main.c02c83ed.js.map",
+    "787.c1112931.chunk.js.map": "/FranceEcologie/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f031d163.css",
+    "static/js/main.c02c83ed.js"
+  ]
+}
